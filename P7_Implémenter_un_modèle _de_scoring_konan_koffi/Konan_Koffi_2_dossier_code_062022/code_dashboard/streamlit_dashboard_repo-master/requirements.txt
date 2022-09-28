@@ -1,0 +1,8 @@
+pandas
+joblib
+requests
+shap
+streamlit
+plotly
+matplotlib
+lightgbm

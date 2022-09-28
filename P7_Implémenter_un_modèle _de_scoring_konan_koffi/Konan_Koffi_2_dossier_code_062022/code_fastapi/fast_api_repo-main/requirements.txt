@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pandas
+joblib
+gunicorn
+uvloop
+httptools
+lightgbm
+scikit-learn
+streamlit
